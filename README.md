@@ -17,6 +17,10 @@ A simple and fast ToDo application built using **React** and **Vite**.
 - JavaScript
 - CSS
 
+## License
+
+This project is open-source. Feel free to use and improve it!
+
 
 ## How to Run Locally
 
